@@ -1,6 +1,11 @@
-# Sales-Insights-Hardware-Company
- Performed EDA in MySQL.
-● Designed a Power BI dashboard to understand hardware goods sales trend and Profit.
-● The final dashboard was effective at displaying the sales trend and profit gain of hardware store, allowing users to understand the data and make informed decisions.
-● This dashboard could help hopefully in increasing the revenue at least by 7% in the next quarter.
- I created a dashboard💻 and these were the conclusions, I was able to scrape off from the data
+Conducted EDA in MySQL and designed a Power BI dashboard for hardware goods sales and profit analysis.
+
+The dashboard effectively reveals key insights:
+➡️Sales dropped from 43 million in 2018 to 15 million in 2020.
+➡️Top revenue-contributing markets: Delhi NCR (52.76%), Mumbai (15.14%), Ahmedabad (13.43%).
+➡️Lowest revenue markets: Bengaluru, Bhubaneshwar, Surat.
+➡️Top sales quantity markets: Delhi NCR (988k), Mumbai (384k), Nagpur (262k).
+➡️Lowest sales quantity markets: Bengaluru, Bhubaneshwar, Patna.
+➡️Prod001, Prod037, and Prod111 are the most profitable products.
+➡️North zone leads in both revenue (68.60%) and profit (61.14%), followed by the Central zone.
+➡️Mumbai and Kochi excel in profit contribution in their respective zones.
